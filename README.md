@@ -1,0 +1,1 @@
+# STRGenerator.github.io
