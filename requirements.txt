@@ -1,7 +1,0 @@
-python-docx
-streamlit
-pandas
-requests
-json5
-streamlit-lottie
-pandas-profiling==3.2.0
